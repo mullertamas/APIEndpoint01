@@ -2,13 +2,11 @@
   "motor_1": {
     "temperature": 68.5,
     "status": "running",
-    "error": false,
-    "power_consumption": 1500
+    "error": false
   },
   "motor_2": {
     "temperature": 68.5,
     "status": "running",
-    "error": false,
-    "power_consumption": 1500  
+    "error": false
   }
 }
