@@ -1,6 +1,6 @@
 {
   "motor_1": {
-    "temperature": 68.5,
+    "temperature": {"temp1" : 68.5, "temp2" : 45.1},
     "status": "running",
     "error": false
   },
