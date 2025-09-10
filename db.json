@@ -7,6 +7,6 @@
   "motor_2": {
     "temperature": 68.5,
     "status": "running",
-    "error": false
+    "error": true
   }
 }
